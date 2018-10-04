@@ -1,1 +1,1 @@
-StackÀ» »ç¿ëÇØ¼­ Palindrome Ã£±â
+Stackì„ ì‚¬ìš©í•œ Palindrome íŒë‹¨
